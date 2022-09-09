@@ -69,10 +69,20 @@ body {
   color: #fff;
 }
 
+.btn--full:hover,
+.btn--full:active {
+  background: #cf711f;
+}
+
 .btn--outline:link,
 .btn--outline:visited {
   background: #fff;
   color: #555;
+}
+
+.btn--outline:hover,
+.btn--outline:active {
+  background: #fdf2e9;
 }
 
 .hero-img {
